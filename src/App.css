@@ -1,0 +1,47 @@
+p{
+  padding: 0;
+  margin: 0;
+}
+.header_main{
+  background-color: black;
+  box-shadow: 0px 3px 7px #898989;
+  padding: 10px;
+}
+.points_number{
+  font-size: 23px;
+  color: red;
+  font-weight: 700;
+}
+.points_green{
+  color: #56ff56;
+
+}
+.check_rem:hover{
+  transform: scale(1.1);
+    transition: 200ms ease-in;
+    cursor: pointer;
+}
+.descrip{
+  font-size: 25px;
+  font-weight: 600;
+}
+.middle_div_main{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 30px;
+  padding: 10px;
+}
+.restart_btn{
+  background-color: #fbbf20;
+    border: none;
+    color: black;
+    padding: 5px 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    box-shadow: 1px 1px 7px #56ff568a;
+}
+.zoo_close{
+  font-size: 22px;
+  margin-bottom: 6px;
+  font-weight: 500;
+}
